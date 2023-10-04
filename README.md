@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elkhunsu
-- 👀 I’m interested in Mobile Apps and Frontend web apps
-- 🌱 I’m currently learning Vue Js and React Native
+- 👀 I’m interested in Mobile Apps and Fullstack development
+- 🌱 I’m currently learning Vue Js and Go Lang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
